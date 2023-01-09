@@ -1,0 +1,6 @@
+{
+    "name": "SFDX CLI",
+    "id": "SFDXCLI",
+    "version": "1.0.0",
+    "description": "Docker Image to install SFDX CLI"
+}
